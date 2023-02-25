@@ -1,0 +1,52 @@
+body {
+    background-image: url('images/im.png');
+    /* background-size: 100%;
+    background-repeat: no-repeat; */
+}
+
+#f1{
+    background-color: red;
+    text-align: center;
+    width: 21%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+}
+
+#f2 {
+    left: 350px;
+    width: 600px;
+    position: relative;
+    text-align: 100px;
+
+}
+
+#gif1 {
+    top: 0;
+    position: absolute;
+}
+
+#gif2 {
+    top: 0;
+    left: 1000px;
+    position: absolute;
+
+}
+h1 {
+    color: whitesmoke;
+}
+
+#f3 {
+    position: absolute;
+    top: 200px;
+    margin-right: auto;
+    margin-left: auto;
+
+    width: 100px;
+    height: 50px;    
+
+    color: whitesmoke;
+    background-color: red;
+    border-color: white;
+    
+}
